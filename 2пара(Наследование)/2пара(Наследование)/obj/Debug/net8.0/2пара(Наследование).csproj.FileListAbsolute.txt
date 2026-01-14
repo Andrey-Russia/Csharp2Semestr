@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\bin\Debug\net8.0\2пара(Наследование).exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\bin\Debug\net8.0\2пара(Наследование).deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\bin\Debug\net8.0\2пара(Наследование).runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\bin\Debug\net8.0\2пара(Наследование).dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\bin\Debug\net8.0\2пара(Наследование).pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\2пара(Наследование).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\2пара(Наследование).AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\2пара(Наследование).AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\2пара(Наследование).csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\2пара(Наследование).sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\2пара(Наследование).dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\refint\2пара(Наследование).dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\2пара(Наследование).pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\2пара(Наследование).genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\КЛУБ\Колледж\2Курс\Csharp2Semestr\2пара(Наследование)\2пара(Наследование)\obj\Debug\net8.0\ref\2пара(Наследование).dll
