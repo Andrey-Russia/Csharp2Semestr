@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\bin\Debug\net8.0\Основа.exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\bin\Debug\net8.0\Основа.deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\bin\Debug\net8.0\Основа.runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\bin\Debug\net8.0\Основа.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\bin\Debug\net8.0\Основа.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\Основа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\Основа.AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\Основа.AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\Основа.csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\Основа.sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\Основа.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\refint\Основа.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\Основа.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\Основа.genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Visa\Основа\Основа\obj\Debug\net8.0\ref\Основа.dll
