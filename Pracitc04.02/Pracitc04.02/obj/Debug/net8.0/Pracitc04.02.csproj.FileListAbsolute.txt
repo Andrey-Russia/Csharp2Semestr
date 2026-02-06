@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\bin\Debug\net8.0\Pracitc04.02.exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\bin\Debug\net8.0\Pracitc04.02.deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\bin\Debug\net8.0\Pracitc04.02.runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\bin\Debug\net8.0\Pracitc04.02.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\bin\Debug\net8.0\Pracitc04.02.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\Pracitc04.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\Pracitc04.02.AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\Pracitc04.02.AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\Pracitc04.02.csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\Pracitc04.02.sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\Pracitc04.02.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\refint\Pracitc04.02.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\Pracitc04.02.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\Pracitc04.02.genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Pracitc04.02\Pracitc04.02\obj\Debug\net8.0\ref\Pracitc04.02.dll
