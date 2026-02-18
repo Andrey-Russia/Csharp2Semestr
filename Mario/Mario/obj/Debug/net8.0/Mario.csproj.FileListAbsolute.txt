@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\bin\Debug\net8.0\Mario.exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\bin\Debug\net8.0\Mario.deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\bin\Debug\net8.0\Mario.runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\bin\Debug\net8.0\Mario.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\bin\Debug\net8.0\Mario.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\Mario.AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\Mario.AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\Mario.csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\Mario.sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\Mario.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\refint\Mario.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\Mario.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\Mario.genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Mario\Mario\obj\Debug\net8.0\ref\Mario.dll

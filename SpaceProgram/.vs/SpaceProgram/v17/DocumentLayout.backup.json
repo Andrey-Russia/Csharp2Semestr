@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\SpaceProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B927583-57A1-4848-A0A7-43BDF592226B}|SpaceProgram\\SpaceProgram.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\spaceprogram\\spaceprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B927583-57A1-4848-A0A7-43BDF592226B}|SpaceProgram\\SpaceProgram.csproj|solutionrelative:spaceprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\SpaceProgram\\SpaceProgram\\Program.cs",
+              "RelativeDocumentMoniker": "SpaceProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\SpaceProgram\\SpaceProgram\\Program.cs",
+              "RelativeToolTip": "SpaceProgram\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:16:18.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

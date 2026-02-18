@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\bin\Debug\net8.0\SpaceProgram.exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\bin\Debug\net8.0\SpaceProgram.deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\bin\Debug\net8.0\SpaceProgram.runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\bin\Debug\net8.0\SpaceProgram.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\bin\Debug\net8.0\SpaceProgram.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\SpaceProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\SpaceProgram.AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\SpaceProgram.AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\SpaceProgram.csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\SpaceProgram.sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\SpaceProgram.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\refint\SpaceProgram.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\SpaceProgram.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\SpaceProgram.genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\SpaceProgram\SpaceProgram\obj\Debug\net8.0\ref\SpaceProgram.dll
