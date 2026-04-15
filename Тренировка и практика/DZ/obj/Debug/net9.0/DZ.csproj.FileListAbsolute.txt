@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\bin\Debug\net9.0\DZ.exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\bin\Debug\net9.0\DZ.deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\bin\Debug\net9.0\DZ.runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\bin\Debug\net9.0\DZ.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\bin\Debug\net9.0\DZ.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\DZ.AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\DZ.AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\DZ.sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\DZ.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\refint\DZ.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\DZ.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\DZ.genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\DZ\obj\Debug\net9.0\ref\DZ.dll

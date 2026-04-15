@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\bin\Debug\net8.0\Maincraft.exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\bin\Debug\net8.0\Maincraft.deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\bin\Debug\net8.0\Maincraft.runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\bin\Debug\net8.0\Maincraft.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\bin\Debug\net8.0\Maincraft.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\Maincraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\Maincraft.AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\Maincraft.AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\Maincraft.csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\Maincraft.sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\Maincraft.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\refint\Maincraft.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\Maincraft.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\Maincraft.genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Maincraft\Maincraft\obj\Debug\net8.0\ref\Maincraft.dll

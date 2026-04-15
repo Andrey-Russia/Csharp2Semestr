@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\bin\Debug\net9.0\Тренировка и практика.exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\bin\Debug\net9.0\Тренировка и практика.deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\bin\Debug\net9.0\Тренировка и практика.runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\bin\Debug\net9.0\Тренировка и практика.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\bin\Debug\net9.0\Тренировка и практика.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\Тренировка и практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\Тренировка и практика.AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\Тренировка и практика.AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\Тренировка и практика.csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\Тренировка и практика.sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\Тренировка и практика.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\refint\Тренировка и практика.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\Тренировка и практика.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\Тренировка и практика.genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Тренировка и практика\Тренировка и практика\obj\Debug\net9.0\ref\Тренировка и практика.dll
