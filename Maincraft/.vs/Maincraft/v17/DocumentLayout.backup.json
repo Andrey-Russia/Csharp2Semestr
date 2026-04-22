@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\elements\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\elements\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\elements\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\elements\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\elements\\steam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\elements\\steam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\elements\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\elements\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\crafting\\crafting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\crafting\\crafting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\items\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\items\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\items\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +27,40 @@
       "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\weapons\\spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\weapons\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\crafting\\crafting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\crafting\\crafting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\crafting\\axerecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\crafting\\axerecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\items\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\items\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\elements\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\elements\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\elements\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\elements\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\elements\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\elements\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\elements\\steam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\elements\\steam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\crafting\\spearrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\crafting\\spearrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\maincraft\\maincraft\\crafting\\craftrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E016C976-0FF5-4CC2-BE22-89D685F56DD3}|Maincraft\\Maincraft.csproj|solutionrelative:maincraft\\crafting\\craftrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,55 +70,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "AxeRecipe.cs",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Crafting\\AxeRecipe.cs",
+              "RelativeDocumentMoniker": "Maincraft\\Crafting\\AxeRecipe.cs",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Crafting\\AxeRecipe.cs",
+              "RelativeToolTip": "Maincraft\\Crafting\\AxeRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:16:45.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CraftRecipe.cs",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Crafting\\CraftRecipe.cs",
+              "RelativeDocumentMoniker": "Maincraft\\Crafting\\CraftRecipe.cs",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Crafting\\CraftRecipe.cs",
+              "RelativeToolTip": "Maincraft\\Crafting\\CraftRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:16:28.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpearRecipe.cs",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Crafting\\SpearRecipe.cs",
+              "RelativeDocumentMoniker": "Maincraft\\Crafting\\SpearRecipe.cs",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Crafting\\SpearRecipe.cs",
+              "RelativeToolTip": "Maincraft\\Crafting\\SpearRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:16:01.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Steam.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Elements\\Steam.cs",
               "RelativeDocumentMoniker": "Maincraft\\Elements\\Steam.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Elements\\Steam.cs",
               "RelativeToolTip": "Maincraft\\Elements\\Steam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:49:47.485Z"
+              "WhenOpened": "2026-02-25T10:49:47.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Ice.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Elements\\Ice.cs",
               "RelativeDocumentMoniker": "Maincraft\\Elements\\Ice.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Elements\\Ice.cs",
               "RelativeToolTip": "Maincraft\\Elements\\Ice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:49:40.829Z"
+              "WhenOpened": "2026-02-25T10:49:40.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Fire.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Elements\\Fire.cs",
               "RelativeDocumentMoniker": "Maincraft\\Elements\\Fire.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Elements\\Fire.cs",
               "RelativeToolTip": "Maincraft\\Elements\\Fire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:49:14.51Z"
+              "WhenOpened": "2026-02-25T10:49:14.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Element.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Elements\\Element.cs",
               "RelativeDocumentMoniker": "Maincraft\\Elements\\Element.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Elements\\Element.cs",
               "RelativeToolTip": "Maincraft\\Elements\\Element.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:43:35.07Z"
+              "WhenOpened": "2026-02-25T10:43:35.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,93 +171,101 @@
               "RelativeDocumentMoniker": "Maincraft\\Crafting\\Crafting.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Crafting\\Crafting.cs",
               "RelativeToolTip": "Maincraft\\Crafting\\Crafting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:03:05.929Z"
+              "WhenOpened": "2026-02-25T10:03:05.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Items\\Item.cs",
               "RelativeDocumentMoniker": "Maincraft\\Items\\Item.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Items\\Item.cs",
               "RelativeToolTip": "Maincraft\\Items\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:30:53.749Z"
+              "WhenOpened": "2026-02-25T10:30:53.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Stick.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Items\\Stick.cs",
               "RelativeDocumentMoniker": "Maincraft\\Items\\Stick.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Items\\Stick.cs",
               "RelativeToolTip": "Maincraft\\Items\\Stick.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:03:13.672Z"
+              "WhenOpened": "2026-02-25T10:03:13.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Axe.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Weapons\\Axe.cs",
               "RelativeDocumentMoniker": "Maincraft\\Weapons\\Axe.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Weapons\\Axe.cs",
               "RelativeToolTip": "Maincraft\\Weapons\\Axe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:22:12.849Z"
+              "WhenOpened": "2026-02-25T10:22:12.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Weapons.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Weapons\\Weapons.cs",
               "RelativeDocumentMoniker": "Maincraft\\Weapons\\Weapons.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Weapons\\Weapons.cs",
               "RelativeToolTip": "Maincraft\\Weapons\\Weapons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:19:41.38Z"
+              "WhenOpened": "2026-02-25T10:19:41.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Spear.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Weapons\\Spear.cs",
               "RelativeDocumentMoniker": "Maincraft\\Weapons\\Spear.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Weapons\\Spear.cs",
               "RelativeToolTip": "Maincraft\\Weapons\\Spear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:12:31.488Z"
+              "WhenOpened": "2026-02-25T10:12:31.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Stone.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Items\\Stone.cs",
               "RelativeDocumentMoniker": "Maincraft\\Items\\Stone.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Items\\Stone.cs",
               "RelativeToolTip": "Maincraft\\Items\\Stone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:03:23.407Z"
+              "WhenOpened": "2026-02-25T10:03:23.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Program.cs",
               "RelativeDocumentMoniker": "Maincraft\\Program.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\Maincraft\\Maincraft\\Program.cs",
               "RelativeToolTip": "Maincraft\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:34:52.348Z"
+              "WhenOpened": "2026-02-25T08:34:52.348Z",
+              "EditorCaption": ""
             }
           ]
         }

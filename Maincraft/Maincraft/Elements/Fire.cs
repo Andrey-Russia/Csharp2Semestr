@@ -1,19 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Maincraft.Elements
+﻿public class Fire : Element
 {
-    public sealed class Fire : Element
+    public Fire(float damage)
     {
-        public float DamageRate { get; init; }
-
-        public Fire(float damageRate)
-        {
-            this.DamageRate = damageRate;
-            SetDamage(damageRate * 10);
-        }
+        Damage = damage;
+        Name = "Fire";
     }
 }

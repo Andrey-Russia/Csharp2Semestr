@@ -94,8 +94,7 @@
               "RelativeToolTip": "KT5\\Services\\RegistrationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:47:51.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:47:51.872Z"
             },
             {
               "$type": "Document",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "KT5\\Payment\\CoinPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:42:17.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:42:17.348Z"
             },
             {
               "$type": "Document",
@@ -120,8 +118,7 @@
               "RelativeToolTip": "KT5\\Payment\\CardPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:41:56.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:41:56.341Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "KT5\\Payment\\CashPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:40:38.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:40:38.534Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "RelativeToolTip": "KT5\\Payment\\IPaymentStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:39:55.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:39:55.917Z"
             },
             {
               "$type": "Document",
@@ -159,8 +154,7 @@
               "RelativeToolTip": "KT5\\Validators\\PaymentValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:37:58.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:37:58.157Z"
             },
             {
               "$type": "Document",
@@ -172,8 +166,7 @@
               "RelativeToolTip": "KT5\\Validators\\PriceValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:36:18.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:36:18.609Z"
             },
             {
               "$type": "Document",
@@ -185,8 +178,7 @@
               "RelativeToolTip": "KT5\\Validators\\SectionValodator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:34:04.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:34:04.709Z"
             },
             {
               "$type": "Document",
@@ -198,8 +190,7 @@
               "RelativeToolTip": "KT5\\Validators\\AgeValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:31:45.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:31:45.386Z"
             },
             {
               "$type": "Document",
@@ -211,8 +202,7 @@
               "RelativeToolTip": "KT5\\Validators\\NameValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:29:45.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:29:45.208Z"
             },
             {
               "$type": "Document",
@@ -224,8 +214,7 @@
               "RelativeToolTip": "KT5\\Validators\\IValidatorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:28:48.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:28:48.496Z"
             },
             {
               "$type": "Document",
@@ -237,8 +226,7 @@
               "RelativeToolTip": "KT5\\Exceptons\\InsufficientPaymentException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:24:05.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:24:05.804Z"
             },
             {
               "$type": "Document",
@@ -250,8 +238,7 @@
               "RelativeToolTip": "KT5\\Exceptons\\InvalidPriceException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:23:15.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:23:15.262Z"
             },
             {
               "$type": "Document",
@@ -263,8 +250,7 @@
               "RelativeToolTip": "KT5\\Exceptons\\InvalidSectionException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:22:07.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:22:07.944Z"
             },
             {
               "$type": "Document",
@@ -276,8 +262,7 @@
               "RelativeToolTip": "KT5\\Exceptons\\EmptyAgeException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:21:10.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:21:10.05Z"
             },
             {
               "$type": "Document",
@@ -289,8 +274,7 @@
               "RelativeToolTip": "KT5\\Exceptons\\RegistrationApp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:19:06.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:19:06.653Z"
             },
             {
               "$type": "Document",
@@ -302,8 +286,7 @@
               "RelativeToolTip": "KT5\\Models\\VisitorCinfig.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T08:14:50.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T08:14:50.505Z"
             },
             {
               "$type": "Document",

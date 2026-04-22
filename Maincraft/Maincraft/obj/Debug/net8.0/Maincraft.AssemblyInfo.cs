@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maincraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e61285a4ca1131079d45b97a1c620df396cd3b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da1470f780b33a304754ab40c16c48567827d50c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maincraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maincraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

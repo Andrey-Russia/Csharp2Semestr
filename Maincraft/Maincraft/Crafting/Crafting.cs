@@ -1,30 +1,28 @@
-﻿using Maincraft.Items;
-using Maincraft.Weapons;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Maincraft.Crafting
+﻿public class Workbench
 {
-    public static class Workbench
+    private readonly Dictionary<Type, object> _recipes;
+
+    public Workbench(
+        ICraftRecipe<Spear> spear,
+        ICraftRecipe<Axe> axe)
     {
-        public static Weapons.Weapons CraftSpear(Item item1, Item item2, Item item3)
-        {
-            if (item1 is Stone && item2 is Stick && item3 is Stick)
-                return new Spear(item1, item2, item3);
+        _recipes = new Dictionary<Type, object>
+            {
+                { typeof(Spear), spear },
+                { typeof(Axe), axe }
+            };
+    }
 
-            throw new ArgumentException("Недопустимый рецепт для копья");
-        }
+    public T Craft<T>(Item a, Item b, Item c) where T : Weapon
+    {
+        if (!_recipes.TryGetValue(typeof(T), out var recipeObj))
+            throw new Exception("Recipe not found");
 
+        var recipe = (ICraftRecipe<T>)recipeObj;
 
-        public static Weapons.Weapons CraftAxe(Item item1, Item item2, Item item3)
-        {
-            if (item1 is Stone && item2 is Stone && item3 is Stick)
-                return new Axe(item1, item2, item3);
+        if (!recipe.CanCraft(a, b, c))
+            throw new Exception("Invalid ingredients");
 
-            throw new ArgumentException("Недопустимый рецепт для топора");
-        }
+        return recipe.Craft(a, b, c);
     }
 }

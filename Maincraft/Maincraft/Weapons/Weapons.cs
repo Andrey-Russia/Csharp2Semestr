@@ -1,19 +1,22 @@
-﻿using Maincraft.Items;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Maincraft.Weapons
+﻿public class Weapon : Item
 {
-    public abstract class Weapons : Item
-    {
-        protected Weapons(double damage, double attackSpeed) : base(damage, attackSpeed) { }
+    public Element Element { get; private set; }
 
-        public override string GetDescription()
-        {
-            return $"Оружие:{base.GetDescription()}";
-        }
+    public Weapon(double damage, double speed) : base(damage, speed) { }
+
+    public void SetElement(Element element)
+    {
+        Element = element;
+    }
+
+    public void SetElement(Element a, Element b)
+    {
+        Element = a + b;
+    }
+
+    public override string GetDescription()
+    {
+        string elem = Element != null ? $" | Element: {Element.Name}" : "";
+        return $"{GetType().Name} | DPS: {DPS}{elem}";
     }
 }

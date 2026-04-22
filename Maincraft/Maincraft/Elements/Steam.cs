@@ -1,18 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Maincraft.Elements
+﻿public class Steam : Element
 {
-    public sealed class Steam : Element
+    public Steam(float damage)
     {
-        public float DamageRate { get; init; }
-
-        public Steam(float combinedDamage)
-        {
-            SetDamage(combinedDamage);
-        }
+        Damage = damage;
+        Name = "Steam";
     }
 }

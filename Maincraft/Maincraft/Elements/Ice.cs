@@ -1,19 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Maincraft.Elements
+﻿public class Ice : Element
 {
-    public sealed class Ice: Element
+    public Ice(float damage)
     {
-        public float DamageRate { get; init; }
-
-        public Ice (float damageRate)
-        {
-            this.DamageRate = damageRate;
-            SetDamage(damageRate * 10);
-        }
+        Damage = damage;
+        Name = "Ice";
     }
 }

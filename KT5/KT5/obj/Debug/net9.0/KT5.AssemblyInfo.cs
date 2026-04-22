@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KT5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c41aff264e36028cae0276093dd44fe207b9f9b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da1470f780b33a304754ab40c16c48567827d50c")]
 [assembly: System.Reflection.AssemblyProductAttribute("KT5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KT5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

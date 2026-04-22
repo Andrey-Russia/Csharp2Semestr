@@ -1,33 +1,33 @@
-﻿using Maincraft.Items;
-using Maincraft.Weapons;
-using Maincraft.Crafting;
-
-class Programm
+﻿class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        var stone = new Stone();
-        var stick1 = new Stick();
-        var stick2 = new Stick();
+        var workbench = new Workbench(
+            new SpearRecipe(),
+            new AxeRecipe()
+        );
 
-        try
-        {
-            var spear = Workbench.CraftSpear(stone, stick1, stick2);
-            Console.WriteLine(spear.GetDescription());
-        }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
+        Item stone1 = new Stone();
+        Item stone2 = new Stone();
+        Item stick1 = new Stick();
+        Item stick2 = new Stick();
 
-        try
+        List<Weapon> weapons = new List<Weapon>();
+
+        Weapon spear = workbench.Craft<Spear>(stone1, stick1, stick2);
+        Weapon axe = workbench.Craft<Axe>(stone1, stone2, stick1);
+
+        weapons.Add(spear);
+        weapons.Add(axe);
+
+        spear.SetElement(new Fire(10));
+        axe.SetElement(new Ice(8), new Fire(6)); 
+
+        Console.WriteLine("=== WEAPONS INFO ===\n");
+
+        foreach (var weapon in weapons)
         {
-            var axe = Workbench.CraftAxe(new Stone(), new Stone(), new Stick());
-            Console.WriteLine(axe.GetDescription());
-        }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine(ex.Message);
+            Console.WriteLine(weapon.GetDescription());
         }
     }
 }
