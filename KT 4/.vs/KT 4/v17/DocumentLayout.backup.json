@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\fightsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\fightsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\doubleresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\doubleresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\magicresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\magicresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\physicresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\physicresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\physicresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\physicresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\magicresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\magicresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\doubleresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\doubleresistunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\fightsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\fightsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt 4\\kt 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96ABEFCE-6C75-4A31-B9C1-88C54E7066D2}|KT 4\\KT 4.csproj|solutionrelative:kt 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\Program.cs",
               "RelativeDocumentMoniker": "KT 4\\Program.cs",
@@ -55,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FightSystem.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\FightSystem.cs",
               "RelativeDocumentMoniker": "KT 4\\FightSystem.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\FightSystem.cs",
               "RelativeToolTip": "KT 4\\FightSystem.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAQwCEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T09:31:28.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DoubleResistUnit.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\DoubleResistUnit.cs",
               "RelativeDocumentMoniker": "KT 4\\DoubleResistUnit.cs",
@@ -76,7 +76,8 @@
               "RelativeToolTip": "KT 4\\DoubleResistUnit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T09:29:56.928Z"
+              "WhenOpened": "2026-04-15T09:29:56.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,13 +87,14 @@
               "RelativeDocumentMoniker": "KT 4\\MagicResistUnit.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\MagicResistUnit.cs",
               "RelativeToolTip": "KT 4\\MagicResistUnit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T09:29:19.607Z"
+              "WhenOpened": "2026-04-15T09:29:19.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PhysicResistUnit.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\PhysicResistUnit.cs",
               "RelativeDocumentMoniker": "KT 4\\PhysicResistUnit.cs",
@@ -100,23 +102,25 @@
               "RelativeToolTip": "KT 4\\PhysicResistUnit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T09:26:47.983Z"
+              "WhenOpened": "2026-04-15T09:26:47.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Unit.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\Unit.cs",
               "RelativeDocumentMoniker": "KT 4\\Unit.cs",
               "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\Unit.cs",
               "RelativeToolTip": "KT 4\\Unit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA1wAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T09:22:55.254Z"
+              "WhenOpened": "2026-04-15T09:22:55.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Damage.cs",
               "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT 4\\KT 4\\Damage.cs",
               "RelativeDocumentMoniker": "KT 4\\Damage.cs",
@@ -124,7 +128,8 @@
               "RelativeToolTip": "KT 4\\Damage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T09:20:20.14Z"
+              "WhenOpened": "2026-04-15T09:20:20.14Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26399DC9-5CF9-1670-08F7-E126AA0DB14A}|TestApp.Web\\TestApp.Web.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\testapp\\testapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26399DC9-5CF9-1670-08F7-E126AA0DB14A}|TestApp.Web\\TestApp.Web.csproj|solutionrelative:testapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26399DC9-5CF9-1670-08F7-E126AA0DB14A}|TestApp.Web\\TestApp.Web.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\testapp\\testapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26399DC9-5CF9-1670-08F7-E126AA0DB14A}|TestApp.Web\\TestApp.Web.csproj|solutionrelative:testapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26399DC9-5CF9-1670-08F7-E126AA0DB14A}|TestApp.Web\\TestApp.Web.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\testapp\\testapp.web\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26399DC9-5CF9-1670-08F7-E126AA0DB14A}|TestApp.Web\\TestApp.Web.csproj|solutionrelative:testapp.web\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26399DC9-5CF9-1670-08F7-E126AA0DB14A}|TestApp.Web\\TestApp.Web.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\testapp\\testapp.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26399DC9-5CF9-1670-08F7-E126AA0DB14A}|TestApp.Web\\TestApp.Web.csproj|solutionrelative:testapp.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\TestApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\TestApp.Web\\Program.cs*",
+              "RelativeToolTip": "TestApp.Web\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:23:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\TestApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApp.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\TestApp.Web\\appsettings.json",
+              "RelativeToolTip": "TestApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T08:23:05.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\TestApp.Web\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestApp.Web\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\TestApp.Web\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TestApp.Web\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:22:53.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\TestApp.Web\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TestApp.Web\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\TestApp\\TestApp.Web\\Models\\User.cs",
+              "RelativeToolTip": "TestApp.Web\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:22:00.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

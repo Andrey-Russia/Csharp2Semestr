@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A2D9E-BE90-4602-B469-C51F9681C6F5}|KT6\\KT6.csproj|c:\\users\\kraev\\onedrive\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u043A\u0443\u0440\u0441\\csharp2semestr\\kt6\\kt6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A2D9E-BE90-4602-B469-C51F9681C6F5}|KT6\\KT6.csproj|solutionrelative:kt6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT6\\KT6\\Program.cs",
+              "RelativeDocumentMoniker": "KT6\\Program.cs",
+              "ToolTip": "C:\\Users\\kraev\\OneDrive\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041A\u043E\u043B\u043B\u0435\u0434\u0436\\2\u041A\u0443\u0440\u0441\\Csharp2Semestr\\KT6\\KT6\\Program.cs",
+              "RelativeToolTip": "KT6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:55:25.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
