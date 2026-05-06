@@ -1,0 +1,252 @@
+[
+  {
+    "contractNumber": "DOG-2026-001",
+    "serviceAddress": "г. Москва, ул. Ленина, д. 15, кв. 23",
+    "expirationDate": "2027-05-01"
+  },
+  {
+    "contractNumber": "DOG-2026-002",
+    "serviceAddress": "г. Санкт-Петербург, пр. Невский, д. 47",
+    "expirationDate": "2026-12-15"
+  },
+  {
+    "contractNumber": "DOG-2026-003",
+    "serviceAddress": "г. Екатеринбург, ул. Малышева, д. 102, кв. 12",
+    "expirationDate": "2027-03-20"
+  },
+  {
+    "contractNumber": "DOG-2026-004",
+    "serviceAddress": "г. Новосибирск, ул. Красный проспект, д. 89",
+    "expirationDate": "2027-01-10"
+  },
+  {
+    "contractNumber": "DOG-2026-005",
+    "serviceAddress": "г. Москва, ул. Тверская, д. 12, офис 305",
+    "expirationDate": "2026-11-30"
+  },
+  {
+    "contractNumber": "DOG-2026-006",
+    "serviceAddress": "г. Казань, ул. Баумана, д. 34, кв. 56",
+    "expirationDate": "2027-04-15"
+  },
+  {
+    "contractNumber": "DOG-2026-007",
+    "serviceAddress": "г. Ростов-на-Дону, ул. Большая Садовая, д. 67",
+    "expirationDate": "2026-10-25"
+  },
+  {
+    "contractNumber": "DOG-2026-008",
+    "serviceAddress": "г. Самара, ул. Ленинградская, д. 23, кв. 8",
+    "expirationDate": "2027-02-28"
+  },
+  {
+    "contractNumber": "DOG-2026-009",
+    "serviceAddress": "г. Москва, пр. Мира, д. 145, офис 212",
+    "expirationDate": "2027-06-10"
+  },
+  {
+    "contractNumber": "DOG-2026-010",
+    "serviceAddress": "г. Краснодар, ул. Северная, д. 78",
+    "expirationDate": "2026-09-18"
+  },
+  {
+    "contractNumber": "DOG-2026-011",
+    "serviceAddress": "г. Челябинск, ул. Кирова, д. 56, кв. 34",
+    "expirationDate": "2027-07-05"
+  },
+  {
+    "contractNumber": "DOG-2026-012",
+    "serviceAddress": "г. Уфа, ул. Ленина, д. 112",
+    "expirationDate": "2026-12-01"
+  },
+  {
+    "contractNumber": "DOG-2026-013",
+    "serviceAddress": "г. Пермь, ул. Куйбышева, д. 45",
+    "expirationDate": "2027-03-12"
+  },
+  {
+    "contractNumber": "DOG-2026-014",
+    "serviceAddress": "г. Воронеж, ул. Комиссаржевской, д. 23",
+    "expirationDate": "2026-11-20"
+  },
+  {
+    "contractNumber": "DOG-2026-015",
+    "serviceAddress": "г. Волгоград, ул. Советская, д. 67, офис 15",
+    "expirationDate": "2027-05-25"
+  },
+  {
+    "contractNumber": "DOG-2026-016",
+    "serviceAddress": "г. Саратов, ул. Московская, д. 89",
+    "expirationDate": "2027-01-30"
+  },
+  {
+    "contractNumber": "DOG-2026-017",
+    "serviceAddress": "г. Красноярск, ул. Каратанова, д. 34",
+    "expirationDate": "2026-10-10"
+  },
+  {
+    "contractNumber": "DOG-2026-018",
+    "serviceAddress": "г. Тольятти, ул. Юности, д. 56, кв. 78",
+    "expirationDate": "2027-04-08"
+  },
+  {
+    "contractNumber": "DOG-2026-019",
+    "serviceAddress": "г. Ижевск, ул. Пушкина, д. 23",
+    "expirationDate": "2026-12-20"
+  },
+  {
+    "contractNumber": "DOG-2026-020",
+    "serviceAddress": "г. Барнаул, пр. Красноармейский, д. 112",
+    "expirationDate": "2027-06-15"
+  },
+  {
+    "contractNumber": "DOG-2026-021",
+    "serviceAddress": "г. Иркутск, ул. Свердлова, д. 45",
+    "expirationDate": "2027-02-15"
+  },
+  {
+    "contractNumber": "DOG-2026-022",
+    "serviceAddress": "г. Хабаровск, ул. Муравьева-Амурского, д. 78",
+    "expirationDate": "2026-11-05"
+  },
+  {
+    "contractNumber": "DOG-2026-023",
+    "serviceAddress": "г. Оренбург, ул. Советская, д. 34",
+    "expirationDate": "2027-03-30"
+  },
+  {
+    "contractNumber": "DOG-2026-024",
+    "serviceAddress": "г. Новокузнецк, ул. Кутузова, д. 67",
+    "expirationDate": "2026-09-30"
+  },
+  {
+    "contractNumber": "DOG-2026-025",
+    "serviceAddress": "г. Владивосток, ул. Светланская, д. 23, офис 301",
+    "expirationDate": "2027-07-20"
+  },
+  {
+    "contractNumber": "DOG-2026-026",
+    "serviceAddress": "г. Томск, пр. Ленина, д. 89",
+    "expirationDate": "2027-01-15"
+  },
+  {
+    "contractNumber": "DOG-2026-027",
+    "serviceAddress": "г. Кемерово, ул. Кирова, д. 45",
+    "expirationDate": "2026-10-15"
+  },
+  {
+    "contractNumber": "DOG-2026-028",
+    "serviceAddress": "г. Ярославль, ул. Свободы, д. 78",
+    "expirationDate": "2027-05-05"
+  },
+  {
+    "contractNumber": "DOG-2026-029",
+    "serviceAddress": "г. Ульяновск, ул. Гончарова, д. 112",
+    "expirationDate": "2026-12-10"
+  },
+  {
+    "contractNumber": "DOG-2026-030",
+    "serviceAddress": "г. Тула, пр. Ленина, д. 34",
+    "expirationDate": "2027-04-20"
+  },
+  {
+    "contractNumber": "DOG-2026-031",
+    "serviceAddress": "г. Иркутск, ул. Фурье, д. 56",
+    "expirationDate": "2027-02-10"
+  },
+  {
+    "contractNumber": "DOG-2026-032",
+    "serviceAddress": "г. Белгород, ул. Костюкова, д. 23",
+    "expirationDate": "2026-11-25"
+  },
+  {
+    "contractNumber": "DOG-2026-033",
+    "serviceAddress": "г. Калининград, ул. Театральная, д. 67",
+    "expirationDate": "2027-06-30"
+  },
+  {
+    "contractNumber": "DOG-2026-034",
+    "serviceAddress": "г. Курск, ул. Ленина, д. 89",
+    "expirationDate": "2027-03-05"
+  },
+  {
+    "contractNumber": "DOG-2026-035",
+    "serviceAddress": "г. Тамбов, ул. Советская, д. 45",
+    "expirationDate": "2026-10-05"
+  },
+  {
+    "contractNumber": "DOG-2026-036",
+    "serviceAddress": "г. Липецк, ул. Советская, д. 78",
+    "expirationDate": "2027-07-10"
+  },
+  {
+    "contractNumber": "DOG-2026-037",
+    "serviceAddress": "г. Киров, ул. Московская, д. 112",
+    "expirationDate": "2026-12-05"
+  },
+  {
+    "contractNumber": "DOG-2026-038",
+    "serviceAddress": "г. Пенза, ул. Кирова, д. 34",
+    "expirationDate": "2027-04-25"
+  },
+  {
+    "contractNumber": "DOG-2026-039",
+    "serviceAddress": "г. Брянск, ул. Ленина, д. 56",
+    "expirationDate": "2027-01-20"
+  },
+  {
+    "contractNumber": "DOG-2026-040",
+    "serviceAddress": "г. Архангельск, пр. Ломоносова, д. 23",
+    "expirationDate": "2026-09-25"
+  },
+  {
+    "contractNumber": "DOG-2026-041",
+    "serviceAddress": "г. Владимир, ул. Большая Московская, д. 67",
+    "expirationDate": "2027-05-15"
+  },
+  {
+    "contractNumber": "DOG-2026-042",
+    "serviceAddress": "г. Калуга, ул. Ленина, д. 89",
+    "expirationDate": "2026-11-15"
+  },
+  {
+    "contractNumber": "DOG-2026-043",
+    "serviceAddress": "г. Смоленск, ул. Дзержинского, д. 45",
+    "expirationDate": "2027-03-25"
+  },
+  {
+    "contractNumber": "DOG-2026-044",
+    "serviceAddress": "г. Кострома, ул. Московская, д. 78",
+    "expirationDate": "2027-02-05"
+  },
+  {
+    "contractNumber": "DOG-2026-045",
+    "serviceAddress": "г. Иваново, ул. Ленина, д. 112",
+    "expirationDate": "2026-10-20"
+  },
+  {
+    "contractNumber": "DOG-2026-046",
+    "serviceAddress": "г. Тверь, ул. Советская, д. 34",
+    "expirationDate": "2027-06-05"
+  },
+  {
+    "contractNumber": "DOG-2026-047",
+    "serviceAddress": "г. Рязань, ул. Свободы, д. 56",
+    "expirationDate": "2026-12-25"
+  },
+  {
+    "contractNumber": "DOG-2026-048",
+    "serviceAddress": "г. Орел, ул. Ленина, д. 23",
+    "expirationDate": "2027-04-10"
+  },
+  {
+    "contractNumber": "DOG-2026-049",
+    "serviceAddress": "г. Тамбов, ул. Набережная, д. 67",
+    "expirationDate": "2027-01-05"
+  },
+  {
+    "contractNumber": "DOG-2026-050",
+    "serviceAddress": "г. Липецк, ул. Победы, д. 89, офис 205",
+    "expirationDate": "2026-11-10"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Иван Петров",
+    "email": "ivan.petrov@email.com",
+    "contractNumber": "DOG-2026-001",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Мария Сидорова",
+    "email": "maria.sidorova@mail.ru",
+    "contractNumber": "DOG-2026-002",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Алексей Иванов",
+    "email": "alex.ivanov@gmail.com",
+    "contractNumber": "DOG-2026-003",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Елена Козлова",
+    "email": "elena.kozlova@yandex.ru",
+    "contractNumber": "DOG-2026-004",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Дмитрий Смирнов",
+    "email": "dmitry.smirnov@corp.ru",
+    "contractNumber": "DOG-2026-005",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Ольга Морозова",
+    "email": "olga.morozova@mail.com",
+    "contractNumber": "DOG-2026-006",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Сергей Волков",
+    "email": "sergey.volkov@gmail.com",
+    "contractNumber": "DOG-2026-007",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Анна Кузнецова",
+    "email": "anna.kuznecova@yandex.ru",
+    "contractNumber": "DOG-2026-008",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Михаил Попов",
+    "email": "mikhail.popov@work.ru",
+    "contractNumber": "DOG-2026-009",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Татьяна Лебедева",
+    "email": "tatiana.lebedeva@mail.ru",
+    "contractNumber": "DOG-2026-010",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Николай Федоров",
+    "email": "nikolay.fedorov@gmail.com",
+    "contractNumber": "DOG-2026-011",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Юлия Новикова",
+    "email": "yulia.novikova@yandex.com",
+    "contractNumber": "DOG-2026-012",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Владимир Соколов",
+    "email": "vladimir.sokolov@office.ru",
+    "contractNumber": "DOG-2026-013",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Екатерина Васильева",
+    "email": "ekaterina.vasilieva@mail.ru",
+    "contractNumber": "DOG-2026-014",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Павел Михайлов",
+    "email": "pavel.mihaylov@gmail.com",
+    "contractNumber": "DOG-2026-015",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Наталья Орлова",
+    "email": "natalya.orlova@yandex.ru",
+    "contractNumber": "DOG-2026-016",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Андрей Романова",
+    "email": "andrey.romanov@corp.com",
+    "contractNumber": "DOG-2026-017",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Виктория Павлова",
+    "email": "victoria.pavlova@mail.ru",
+    "contractNumber": "DOG-2026-018",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Константин Андреев",
+    "email": "konstantin.andreev@gmail.com",
+    "contractNumber": "DOG-2026-019",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Ирина Григорьева",
+    "email": "irina.grigoryeva@yandex.ru",
+    "contractNumber": "DOG-2026-020",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Роман Семенов",
+    "email": "roman.semenov@work.ru",
+    "contractNumber": "DOG-2026-021",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Александра Захарова",
+    "email": "alexandra.zaharova@mail.com",
+    "contractNumber": "DOG-2026-022",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Борис Николаев",
+    "email": "boris.nikolaev@gmail.com",
+    "contractNumber": "DOG-2026-023",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Светлана Тимофеева",
+    "email": "svetlana.timofeeva@yandex.ru",
+    "contractNumber": "DOG-2026-024",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Максим Ковалев",
+    "email": "maksim.kovalev@office.ru",
+    "contractNumber": "DOG-2026-025",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Оксана Беляева",
+    "email": "oksana.belyaeva@mail.ru",
+    "contractNumber": "DOG-2026-026",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Денис Мельников",
+    "email": "denis.melnikov@gmail.com",
+    "contractNumber": "DOG-2026-027",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Евгения Степанова",
+    "email": "evgenia.stepanova@yandex.com",
+    "contractNumber": "DOG-2026-028",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Артем Богданов",
+    "email": "artem.bogdanov@corp.ru",
+    "contractNumber": "DOG-2026-029",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Вероника Егоровa",
+    "email": "veronika.egorova@mail.ru",
+    "contractNumber": "DOG-2026-030",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Кирилл Зайцев",
+    "email": "kirill.zaycev@gmail.com",
+    "contractNumber": "DOG-2026-031",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Лидия Антонова",
+    "email": "lidia.antonova@yandex.ru",
+    "contractNumber": "DOG-2026-032",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Станислав Белов",
+    "email": "stanislav.beloov@work.ru",
+    "contractNumber": "DOG-2026-033",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Ульяна Воробьева",
+    "email": "ulyana.vorobieva@mail.com",
+    "contractNumber": "DOG-2026-034",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Федор Гаврилов",
+    "email": "fedor.gavrilov@gmail.com",
+    "contractNumber": "DOG-2026-035",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Христина Демидова",
+    "email": "christina.demidova@yandex.ru",
+    "contractNumber": "DOG-2026-036",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Ярослав Ефимов",
+    "email": "yaroslav.efimov@office.ru",
+    "contractNumber": "DOG-2026-037",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Злата Жукова",
+    "email": "zlata.zhukova@mail.ru",
+    "contractNumber": "DOG-2026-038",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Глеб Зимин",
+    "email": "gleb.zimin@gmail.com",
+    "contractNumber": "DOG-2026-039",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Жанна Ильина",
+    "email": "zhanna.ilina@yandex.com",
+    "contractNumber": "DOG-2026-040",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Захар Карпов",
+    "email": "zahar.karpov@corp.ru",
+    "contractNumber": "DOG-2026-041",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Инна Ларионова",
+    "email": "inna.larionova@mail.ru",
+    "contractNumber": "DOG-2026-042",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Капитолина Макарова",
+    "email": "kapitolina.makarova@gmail.com",
+    "contractNumber": "DOG-2026-043",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Лев Матвеев",
+    "email": "lev.matveev@yandex.ru",
+    "contractNumber": "DOG-2026-044",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Милана Назарова",
+    "email": "milana.nazarova@work.ru",
+    "contractNumber": "DOG-2026-045",
+    "tariff": "VIP"
+  },
+  {
+    "name": "Назар Осипов",
+    "email": "nazar.osipov@mail.com",
+    "contractNumber": "DOG-2026-046",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Олеся Петухова",
+    "email": "olesya.petuhova@gmail.com",
+    "contractNumber": "DOG-2026-047",
+    "tariff": "Премиум"
+  },
+  {
+    "name": "Платон Рябов",
+    "email": "platon.ryabov@yandex.ru",
+    "contractNumber": "DOG-2026-048",
+    "tariff": "Стандарт"
+  },
+  {
+    "name": "Римма Савельева",
+    "email": "rimma.savelyeva@office.ru",
+    "contractNumber": "DOG-2026-049",
+    "tariff": "Базовый"
+  },
+  {
+    "name": "Савелий Титов",
+    "email": "saveliy.titov@mail.ru",
+    "contractNumber": "DOG-2026-050",
+    "tariff": "VIP"
+  }
+]

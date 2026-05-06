@@ -1,0 +1,15 @@
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\bin\Debug\net8.0\Кт8.exe
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\bin\Debug\net8.0\Кт8.deps.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\bin\Debug\net8.0\Кт8.runtimeconfig.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\bin\Debug\net8.0\Кт8.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\bin\Debug\net8.0\Кт8.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\Кт8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\Кт8.AssemblyInfoInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\Кт8.AssemblyInfo.cs
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\Кт8.csproj.CoreCompileInputs.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\Кт8.sourcelink.json
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\Кт8.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\refint\Кт8.dll
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\Кт8.pdb
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\Кт8.genruntimeconfig.cache
+C:\Users\kraev\OneDrive\Desktop\Обучение\Колледж\2Курс\Csharp2Semestr\Кт8\Кт8\obj\Debug\net8.0\ref\Кт8.dll
